@@ -1,13 +1,13 @@
-# 👋 Привет! Я Leccon1 — Frontend-разработчик
+# 👋 Hi! I'm Leccon1 - Frontend Developer
 
-🎯 Упор на адаптивную, отзывчивую, семантическую вёрстку.  
-🛠 Пишу чистый код на HTML, SCSS (BEM, архитектура), JavaScript.  
-📦 Работаю с Git, npm, использую миксины, переменные, сборку.  
-📐 Верстаю по макетам Figma / Frontend Mentor / UI Kit.
+🎯 Focus on adaptive, responsive, semantic layout. 
+🛠 I write clean code in HTML, SCSS (BEM, architecture), JavaScript. 
+📦 I work with Git, npm, use mixins, variables, assembly. 
+📐 I layout using Figma / Frontend Mentor / UI Kit layouts.
 
 ---
 
-## 🚀 Мой стек:
+## 🚀 My stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -19,23 +19,23 @@
 
 ---
 
-## 📂 Примеры проектов
+## 📂 Examples of projects
 
-| 💡 Проект | 🛠 Технологии | 🔗 Ссылка |
+| 💡 Project | 🛠 Technologies | 🔗 Link |
 |----------|---------------|-----------|
-| Newsletter form + JS логика | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/newsletter-sign-up-with-success-message-main) |
-| Адаптивный блок с карточками | HTML, SCSS, Grid | [GitHub](https://github.com/Leccon1/four-card-feature-section-master) |
-| Страница статьи с интерактивом | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/article-preview-component-master) |
+| Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/newsletter-sign-up-with-success-message-main) |
+| Adaptive block with cards | HTML, SCSS, Grid | [GitHub](https://github.com/Leccon1/four-card-feature-section-master) |
+| Article page with interactive | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/article-preview-component-master) |
 
 ---
 
-## 📫 Контакты
+## 📫 Contacts
 
 - 📧 Email: `dlavania703@gmail.com`
-- 💼 [Профиль Kwork](https://kwork.ru/user/Leccon1)
-- 🌍 [Мой Frontend Mentor профиль](https://www.frontendmentor.io/profile/Leccon1)
+- 💼 [Kwork profile](https://kwork.ru/user/Leccon1)
+- 🌍 [My Frontend Mentor profile](https://www.frontendmentor.io/profile/Leccon1)
 
 ---
 
-> 🧠 Каждый проект — это не просто вёрстка, а проработка UX, адаптива и чистой архитектуры кода.  
-> Готов к фриланс-заказам, сотрудничеству и новым вызовам.
+> 🧠 Each project is not just a layout, but the development of UX, adaptability and clean code architecture. 
+> Ready for freelance orders, cooperation and new challenges.
