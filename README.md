@@ -32,7 +32,7 @@
 
 ## 🏠 My standart
 
-| My standart for projects | [GitHub](https://github.com/Leccon1/My-standart-for-projects)
+-- My standart for projects -- [GitHub](https://github.com/Leccon1/My-standart-for-projects)
 
 ---
 
