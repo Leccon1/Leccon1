@@ -23,7 +23,7 @@
 ## 📂 Examples of projects
 
 | 💡 Project | 🛠 Technologies | 🔗 Link |
-|----------|---------------|-----------|-----------|
+|----------|---------------|-----------|
 | Еime tracking dashboard + JS logics | HTML, SCSS, JS, VITE | [Github](https://github.com/Leccon1/time-tracking-dashboard-main) | [Live Demo](https://leccon1.github.io/time-tracking-dashboard-main/) |
 | Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/newsletter-sign-up-with-success-message-main) | [Live Demo](https://leccon1.github.io/newsletter-sign-up-with-success-message-main/) |
 | Adaptive block with cards | HTML, SCSS, Grid | [GitHub](https://github.com/Leccon1/four-card-feature-section-master) | [Live Demo](https://leccon1.github.io/four-card-feature-section-master/) |
