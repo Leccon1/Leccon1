@@ -24,9 +24,9 @@
 
 | 💡 Project | 🛠 Technologies | 🔗 Link | 👁️ Live Demo |
 |----------|---------------|-----------|-------------|
-| Time tracking dashboard + JS logics | HTML, SCSS, JS, VITE | [GiHhub](https://github.com/Leccon1/time-tracking-dashboard-main) | [Live Demo](https://leccon1.github.io/time-tracking-dashboard-main/) |
+| Tip-Calculatop-App + JS logics | HTML, SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/Tip-Calculatop-App) | [Live Demo](https://leccon1.github.io/Tip-Calculatop-App/) 
+| Time tracking dashboard + JS logics | HTML, SCSS, JS, VITE | [GiHub](https://github.com/Leccon1/time-tracking-dashboard-main) | [Live Demo](https://leccon1.github.io/time-tracking-dashboard-main/) |
 | Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/newsletter-sign-up-with-success-message-main) | [Live Demo](https://leccon1.github.io/newsletter-sign-up-with-success-message-main/) |
-| Adaptive block with cards | HTML, SCSS, Grid | [GitHub](https://github.com/Leccon1/four-card-feature-section-master) | [Live Demo](https://leccon1.github.io/four-card-feature-section-master/) |
 
 ---
 
