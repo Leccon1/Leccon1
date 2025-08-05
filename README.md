@@ -22,7 +22,7 @@
 
 ## My practices from [Frontend Mentore](https://www.frontendmentor.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/Leccon1/My-practices-in-the-frontend-mentor)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leccon1)](https://git.io/streak-stats)
 
