@@ -20,19 +20,28 @@
 
 ---
 
+## My practices from [Frontend Mentore](https://www.frontendmentor.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leccon1)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leccon1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 ## 📂 Examples of projects
 
 | 💡 Project | 🛠 Technologies | 🔗 Link | 👁️ Live Demo |
 |----------|---------------|-----------|-------------|
-| Tip-Calculatop-App + JS logics | HTML, SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/Tip-Calculatop-App) | [Live Demo](https://leccon1.github.io/Tip-Calculatop-App/) 
-| Time tracking dashboard + JS logics | HTML, SCSS, JS, VITE | [GiHub](https://github.com/Leccon1/time-tracking-dashboard-main) | [Live Demo](https://leccon1.github.io/time-tracking-dashboard-main/) |
-| Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/newsletter-sign-up-with-success-message-main) | [Live Demo](https://leccon1.github.io/newsletter-sign-up-with-success-message-main/) |
+| Tip-Calculatop-App + JS logics | HTML, SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor) | [Live Demo](https://leccon1.github.io/Tip-Calculatop-App/) 
+| Time tracking dashboard + JS logics | HTML, SCSS, JS, VITE | [GiHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor) | [Live Demo](https://leccon1.github.io/time-tracking-dashboard-main/) |
+| Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor) | [Live Demo](https://leccon1.github.io/newsletter-sign-up-with-success-message-main/) |
 
 ---
 
 ## 🏠 My standart
 
--- My standart for projects -- [GitHub](https://github.com/Leccon1/My-standart-for-projects)
+- My standart for projects -- [GitHub](https://github.com/Leccon1/My-standart-for-projects)
 
 ---
 
