@@ -24,10 +24,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/Leccon1/My-practices-in-the-frontend-mentor)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leccon1)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Leccon1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 ## 📂 Examples of projects
 
@@ -38,6 +34,10 @@
 | Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor) | [Live Demo](https://leccon1.github.io/newsletter-sign-up-with-success-message-main/) |
 
 ---
+
+## My GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leccon1&show_icons=true&theme=dark)
 
 ## 🏠 My standart
 
