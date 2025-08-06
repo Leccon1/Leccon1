@@ -41,7 +41,7 @@
 
 ## 🏠 My standart
 
-- My standart for projects -- [GitHub](https://github.com/Leccon1/My-standart-for-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/Leccon1/My-standart-for-projects)
 
 ---
 
