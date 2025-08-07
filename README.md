@@ -39,9 +39,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leccon1&show_icons=true&theme=dark)
 
+---
+
 ## 🏠 My standart
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/Leccon1/My-standart-for-projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-standart-for-projects)](https://github.com/Leccon1/My-standart-for-projects)
 
 ---
 
