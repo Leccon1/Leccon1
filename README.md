@@ -29,9 +29,9 @@
 
 | 💡 Project | 🛠 Technologies | 🔗 Link | 👁️ Live Demo |
 |----------|---------------|-----------|-------------|
+| space-tourism-website-main + JS logics | SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor/tree/main/source/intermediate/space-tourism-website-main) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/space-tourism-website-main-demo)
 | Tip-Calculatop-App + JS logics | HTML, SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor/tree/main/source/junior/Tip-Calculatop-App) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/junior/tip-calculator-app-main-demo)
 | Time tracking dashboard + JS logics | HTML, SCSS, JS, VITE | [GiHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor/tree/main/source/junior/time-tracking-dashboard-main) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/junior/time-tracking-dashboard-main-demo/) |
-| Newsletter form + JS logics | HTML, SCSS, JS | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor/tree/main/source/junior/newsletter-sign-up-with-success-message-main) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/source/junior/newsletter-sign-up-with-success-message-main/) |
 
 ---
 
