@@ -29,9 +29,9 @@
 
 | 💡 Project | 🛠 Technologies | 🔗 Link | 👁️ Live Demo |
 |----------|---------------|-----------|-------------|
+| Room Homepage Master   | SCSS, JS logics, VITE, Adaptive, stylelint	| [GitHub](https://github.com/Leccon1/room-homepage-master) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/room-homepage-master-demo/)
 | Ecommerce Product Page | SCSS, JS logics, VITE, Adaptive | [GitHub](https://github.com/Leccon1/ecommerce-product-page-main) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/ecommerce-product-page-main-demo/)
 | space-tourism-website-main + JS logics | SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor/tree/main/source/intermediate/space-tourism-website-main) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/space-tourism-website-main-demo)
-| Tip-Calculatop-App + JS logics | HTML, SCSS, JS, VITE | [GitHub](https://github.com/Leccon1/My-practices-in-the-frontend-mentor/tree/main/source/junior/Tip-Calculatop-App) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/junior/tip-calculator-app-main-demo)
 
 ---
 
