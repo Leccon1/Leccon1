@@ -47,8 +47,8 @@
 
 | Project | Technologies | Link | Live Demo |
 |----------|---------------|-----------|-------------|
-| Bookmark Landing Page  | SCSS, JS logics, VITE, Adaptive, stylelint | [GitHub](https://github.com/Leccon1/bookmark-landing-page) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/bookmark-landing-page-master-demo/)
-| Room Homepage Master   | SCSS, JS logics, VITE, Adaptive, stylelint	| [GitHub](https://github.com/Leccon1/room-homepage-master) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/room-homepage-master-demo/)
+| Results Summary Component | React, SCSS, Stylelint | [Live demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/newbie/results-summary-component-demo/) | [GitHub](https://github.com/Leccon1/results-summary-component)
+| Room Homepage Master | SCSS, JS logics, VITE, Adaptive, stylelint	| [GitHub](https://github.com/Leccon1/room-homepage-master) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/room-homepage-master-demo/)
 | Ecommerce Product Page | SCSS, JS logics, VITE, Adaptive | [GitHub](https://github.com/Leccon1/ecommerce-product-page-main) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/intermediate/ecommerce-product-page-main-demo/)
 
 ---
