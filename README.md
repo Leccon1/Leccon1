@@ -1,9 +1,9 @@
 # Hi! I'm Leccon1 - Frontend Developer
 
 + Focus on adaptive, responsive, semantic layout.
-+  I write clean code in HTML, SCSS (BEM, architecture), JavaScript.
-+  I work with Git, npm, use mixins, variables, assembly.
-+    layout using Figma / Frontend Mentor / UI Kit layouts.
++ I write clean code in HTML, React SCSS (BEM, architecture), JavaScript.
++ I work with Git, npm, use mixins, variables, assembly.
++ Layout using Figma / Frontend Mentor / UI Kit layouts.
 
 ---
 
@@ -14,6 +14,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Build Tools & Development
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](#)
@@ -23,7 +24,7 @@
 
 ### Methodologies & Architecture
 ![BEM](https://img.shields.io/badge/BEM-000000?style=flat&logo=bem&logoColor=white)
-![Component Architecture](https://img.shields.io/badge/Component_Architecture-0080FF?style=flat) 
+![Component Architecture](https://img.shields.io/badge/Component_Architecture-0080FF?style=flat)
 ![Modular SCSS](https://img.shields.io/badge/Modular_SCSS-CC6699?style=flat)
 
 ### Design & Tools
@@ -35,9 +36,6 @@
 ![Monorepo](https://img.shields.io/badge/Monorepo-FF6B6B?style=flat)
 ![Boilerplate](https://img.shields.io/badge/Custom_Boilerplate-00D26A?style=flat)
 ![Code Quality](https://img.shields.io/badge/Code_Quality-8E44AD?style=flat)
-
----
-
 ## My practices from [Frontend Mentore](https://www.frontendmentor.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/Leccon1/My-practices-in-the-frontend-mentor)
