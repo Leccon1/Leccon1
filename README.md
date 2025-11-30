@@ -45,9 +45,9 @@
 
 | Project | Technologies | Link | Live Demo |
 |----------|---------------|-----------|-------------|
-| Creative Landing | React, SCSS, VITE, Adaptive, Stylelint | [Live Demo](https://leccon1.github.io/Creative-Landing/) | [GitHub](https://github.com/Leccon1/Creative-Landing)
-| Product List With Cart | React, SCSS, VITE, Adaptive, Stylelint | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/junior/product-list-with-cart-main-demo/) | [GitHub](https://github.com/Leccon1/product-list-with-cart)
-| Results Summary Component | React, SCSS, Stylelint | [Live demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/newbie/results-summary-component-demo/) | [GitHub](https://github.com/Leccon1/results-summary-component)
+| Creative Landing | React, SCSS, VITE, Adaptive, Stylelint | [GitHub](https://github.com/Leccon1/Creative-Landing) | [Live Demo](https://leccon1.github.io/Creative-Landing/)
+| Product List With Cart | React, SCSS, VITE, Adaptive, Stylelint | [GitHub](https://github.com/Leccon1/product-list-with-cart) | [Live Demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/junior/product-list-with-cart-main-demo/)
+| Results Summary Component | React, SCSS, Stylelint | [GitHub](https://github.com/Leccon1/results-summary-component) | [Live demo](https://leccon1.github.io/My-practices-in-the-frontend-mentor/demo/newbie/results-summary-component-demo/)
  
 ---
 
