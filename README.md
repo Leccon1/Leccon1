@@ -63,7 +63,7 @@ I enjoy working at the intersection of **design, animation, and code**, turning 
 
 ## My practices from [Frontend Mentore](https://www.frontendmentor.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-practices-in-the-frontend-mentor)](https://github.com/Leccon1/My-practices-in-the-frontend-mentor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leccon1&repo=My-standart-for-projects&theme=radical)](https://github.com/Leccon1/My-standart-for-projects)
 
 ---
 ## Examples of projects
@@ -78,7 +78,7 @@ I enjoy working at the intersection of **design, animation, and code**, turning 
 
 ## My GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leccon1&show_icons=true&theme=dark)
+[![Leccon1's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Leccon1&show_icons=true&theme=dark)](https://github.com/Leccon1)
 
 ---
 
